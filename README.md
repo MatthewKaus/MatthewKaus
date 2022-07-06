@@ -7,12 +7,13 @@
 </div>
 
 <br />
-
-I am a graduate from the University of Arizona Coding Bootcamp, in Full Stack Web Development. 
+Graduate from the University of Arizona Coding Bootcamp, in Full Stack Web Development. 
 
 Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
 
-It is my passion to become a programmer, as I have had a strong interest in technology from a young age. Starting from playing games, to building computers. It has been a pleasure to have been able to take the course in Full Stack Web Development.
+Web developer with data science experience educated at the University of New Mexico. Recently earned a certificate in full-stack
+web development from the University of Arizona, with knowledge in JavaScript, CSS, and ReactJS. Excited to develop responsive and
+dynamic websites, with a clean and modern user experience.
 
 
 
