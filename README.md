@@ -28,6 +28,6 @@ It is my passion to become a programmer, as I have had a strong interest in tech
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://matthewkaus.netlify.app/">
-  <img align="center" src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=Portfolio&logoColor=#00C7B7" />
+  <img align="center" src="https://img.shields.io/badge/PortFolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
 </a>
 </div>
