@@ -8,7 +8,6 @@
 
 <br />
 
-Graduate from the University of Arizona Coding Bootcamp, in Full Stack Web Development. 
 
 Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
 
@@ -17,9 +16,6 @@ web development from the University of Arizona, with knowledge in JavaScript, CS
 dynamic websites, with a clean and modern user experience.
 
 
-
-
- 
  <hr />
  
  <div align='center'>
