@@ -1,6 +1,6 @@
-<h1 align="center">
- UX-Focused Web Developer
-</h1>
+<div align="center">
+ <h1>UX-Focused Web Developer</h1>
+</div>
 
 <div align='center'>
 <img align="center" src="https://github.com/MatthewKaus/react-portfolio/blob/main/src/assets/images/foxKritaNoBack-medium.png" />
