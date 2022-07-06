@@ -7,6 +7,7 @@
 </div>
 
 <br />
+
 Graduate from the University of Arizona Coding Bootcamp, in Full Stack Web Development. 
 
 Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
