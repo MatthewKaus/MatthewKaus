@@ -23,7 +23,7 @@ dynamic websites, with a clean and modern user experience.
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/matthewpkaus">
-  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img align="center" target='_blank'src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://matthewkaus.netlify.app/">
   <img align="center" src="https://img.shields.io/badge/PortFolio-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
