@@ -3,7 +3,9 @@
 </div>
 
 <div align='center'>
+<a href="https://matthewkaus.netlify.app/" target="_blank">
 <img align="center" src="https://github.com/MatthewKaus/react-portfolio/blob/main/src/assets/images/foxKritaNoBack-medium.png" />
+</a>
 </div>
 
 <br />
