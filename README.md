@@ -11,7 +11,7 @@
 <br />
 
 
-Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
+Currently a Teaching Assistant at Trillogy Education Coding BootCamp.
 
 Web developer with data science experience educated at the University of New Mexico. Recently earned a certificate in full-stack
 web development from the University of Arizona, with knowledge in JavaScript, CSS, and ReactJS. Excited to develop responsive and
