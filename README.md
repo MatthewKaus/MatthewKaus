@@ -1,4 +1,4 @@
-![KataBadge](https://www.codewars.com/users/LifeInvaderr/badges/large)
+![KataBadge](https://www.codewars.com/users/LifeInvaderr/badges/small)
 
 
 
