@@ -1,6 +1,7 @@
 
-![[KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)](https://www.codewars.com/users/MatthewKaus)
+<a href="https://www.codewars.com/users/MatthewKaus">
   <img align="center" src="https://www.codewars.com/users/MatthewKaus/badges/small" />
+</a>
 
 <div align="center">
  <h1>UX-Focused Web Developer</h1>
