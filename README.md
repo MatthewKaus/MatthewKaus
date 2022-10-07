@@ -1,5 +1,5 @@
 
-![[KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)]()
+![[KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)](https://www.codewars.com/users/MatthewKaus)
 
 
 <div align="center">
