@@ -1,4 +1,4 @@
-![KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)
+
 
 
 
@@ -23,7 +23,7 @@ dynamic websites, with a clean and modern user experience.
 
 
  <hr />
- 
+ ![KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)
  <div align='center'>
 <a href="mailto:matthewkausfox@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
