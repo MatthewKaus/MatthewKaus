@@ -1,3 +1,5 @@
+![](https://www.codewars.com/users/LifeInvaderr/badges/micro)
+
 <div align="center">
  <h1>UX-Focused Web Developer</h1>
 </div>
