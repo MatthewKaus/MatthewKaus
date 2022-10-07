@@ -1,4 +1,6 @@
-![](https://www.codewars.com/users/LifeInvaderr/badges/micro)
+![KataBadge](https://www.codewars.com/users/LifeInvaderr/badges/large)
+
+
 
 <div align="center">
  <h1>UX-Focused Web Developer</h1>
