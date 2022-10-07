@@ -1,5 +1,5 @@
 
-
+![[KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)]()
 
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <br />
 
-![[KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)]()
+
 Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
 
 Web developer with data science experience educated at the University of New Mexico. Recently earned a certificate in full-stack
