@@ -14,7 +14,7 @@
 
 <br />
 
-
+![![KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)]()
 Currently a Teaching Assistant at Trillogy Education Coding BootCamps.
 
 Web developer with data science experience educated at the University of New Mexico. Recently earned a certificate in full-stack
@@ -23,7 +23,7 @@ dynamic websites, with a clean and modern user experience.
 
 
  <hr />
- ![KataBadge](https://www.codewars.com/users/MatthewKaus/badges/small)
+
  <div align='center'>
 <a href="mailto:matthewkausfox@gmail.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
