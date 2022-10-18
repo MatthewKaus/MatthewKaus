@@ -4,7 +4,7 @@
 </a>
 
 <div align="center">
- <h1>UX-Focused Web Developer</h1>
+ <h1>Full Stack Web Developer</h1>
 </div>
 
 <div align='center'>
